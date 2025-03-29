@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Practico1;
 
 public class Ejercicio3 {
     public static void ejercicio3() {
